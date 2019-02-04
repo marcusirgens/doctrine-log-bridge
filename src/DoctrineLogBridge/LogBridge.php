@@ -1,8 +1,8 @@
 <?php
 /**
- * @copyright Visma Digital Commerce AS 2019
- * @license Proprietary
- * @author Marcus Pettersen Irgens <marcus.irgens@visma.com>
+ * @copyright Marcus Pettersen Irgens 2019
+ * @license MIT
+ * @author Marcus Pettersen Irgens <marcus.pettersen.irgens@gmail.com>
  */
 
 namespace Marcuspi\DoctrineLogBridge;
